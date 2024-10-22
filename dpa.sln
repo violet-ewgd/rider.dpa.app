@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dpa", "dpa\dpa.csproj", "{A7F9AB7D-8DC8-4C60-A31D-5B70AFE43DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dpa.Library", "dpa.Library\dpa.Library.csproj", "{AD19B203-7473-49E9-B12D-D085D97F4032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dpa.UnitTest", "dpa.UnitTest\dpa.UnitTest.csproj", "{D93ED869-58C1-4030-B9ED-C75B17699EA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F9AB7D-8DC8-4C60-A31D-5B70AFE43DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F9AB7D-8DC8-4C60-A31D-5B70AFE43DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F9AB7D-8DC8-4C60-A31D-5B70AFE43DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F9AB7D-8DC8-4C60-A31D-5B70AFE43DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD19B203-7473-49E9-B12D-D085D97F4032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD19B203-7473-49E9-B12D-D085D97F4032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD19B203-7473-49E9-B12D-D085D97F4032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD19B203-7473-49E9-B12D-D085D97F4032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93ED869-58C1-4030-B9ED-C75B17699EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93ED869-58C1-4030-B9ED-C75B17699EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93ED869-58C1-4030-B9ED-C75B17699EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93ED869-58C1-4030-B9ED-C75B17699EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

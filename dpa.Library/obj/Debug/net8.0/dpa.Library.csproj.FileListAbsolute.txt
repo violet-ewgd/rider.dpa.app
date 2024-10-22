@@ -1,0 +1,13 @@
+D:\Rider\Project\dpa\dpa.Library\bin\Debug\net8.0\dpa.Library.deps.json
+D:\Rider\Project\dpa\dpa.Library\bin\Debug\net8.0\dpa.Library.dll
+D:\Rider\Project\dpa\dpa.Library\bin\Debug\net8.0\dpa.Library.pdb
+D:\Rider\Project\dpa\dpa.Library\obj\Debug\net8.0\dpa.Library.csproj.AssemblyReference.cache
+D:\Rider\Project\dpa\dpa.Library\obj\Debug\net8.0\dpa.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider\Project\dpa\dpa.Library\obj\Debug\net8.0\dpa.Library.AssemblyInfoInputs.cache
+D:\Rider\Project\dpa\dpa.Library\obj\Debug\net8.0\dpa.Library.AssemblyInfo.cs
+D:\Rider\Project\dpa\dpa.Library\obj\Debug\net8.0\dpa.Library.csproj.CoreCompileInputs.cache
+D:\Rider\Project\dpa\dpa.Library\obj\Debug\net8.0\dpa.Library.dll
+D:\Rider\Project\dpa\dpa.Library\obj\Debug\net8.0\refint\dpa.Library.dll
+D:\Rider\Project\dpa\dpa.Library\obj\Debug\net8.0\dpa.Library.pdb
+D:\Rider\Project\dpa\dpa.Library\obj\Debug\net8.0\ref\dpa.Library.dll
+D:\Rider\Project\dpa\dpa.Library\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
